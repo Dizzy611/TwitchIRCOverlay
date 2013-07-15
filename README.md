@@ -1,0 +1,1 @@
+A very *very* simple IRC client that connects to Twitch.tv's chat servers and displays itself in a way thats great for overlaying onto streams.

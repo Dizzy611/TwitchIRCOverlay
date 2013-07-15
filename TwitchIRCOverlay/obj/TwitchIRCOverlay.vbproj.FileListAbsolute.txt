@@ -1,0 +1,46 @@
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TwitchIRCOverlay.IRCOverlayMainWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TwitchIRCOverlay.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TwitchIRCOverlay.vbproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.IRCOverlayMainWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.vbproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Release\TwitchIRCOverlay.EditBox.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\bin\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\bin\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\bin\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.EditBox.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.IRCOverlayMainWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.vbproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\bin\Release\TwitchIRCOverlay.exe
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\bin\Release\TwitchIRCOverlay.pdb
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\bin\Release\TwitchIRCOverlay.xml
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.EditBox.resources
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.IRCOverlayMainWindow.resources
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.Resources.resources
+C:\Users\Dylan\Documents\GitHub\TwitchIRCOverlay\TwitchIRCOverlay\obj\Release\TwitchIRCOverlay.vbproj.GenerateResource.Cache

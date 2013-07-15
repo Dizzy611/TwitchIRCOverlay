@@ -1,0 +1,10 @@
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Dylan\Documents\Visual Studio 2005\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
